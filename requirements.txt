@@ -9,3 +9,4 @@ numpy<2.0
 python-dateutil 
 fastapi
 uvicorn
+matplotlib
