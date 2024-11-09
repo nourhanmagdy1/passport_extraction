@@ -1,0 +1,10 @@
+pytesseract
+flask
+passporteye
+easyocr
+opencv-python
+pytesseract
+numpy<2.0
+python-dateutil 
+fastapi
+uvicorn
